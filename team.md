@@ -1,7 +1,7 @@
 # Brenden
 
 # Jered
-My name is Jered Angous
+My name is Jered Angous.
 
 # Tyson
 
